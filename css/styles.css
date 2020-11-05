@@ -1,0 +1,27 @@
+body {
+  background-color: #fffacd
+}
+hr{
+  border-style : dotted none none;
+  border-color: blue;
+  border-width: 5px;
+
+  width: 4%;
+}
+/* img:hover{
+  height: 300px;
+} */
+
+h1{
+  color: #00b7c2;
+}
+h3{
+  color: #00b7c2;
+}
+
+
+.logo{  height: 300px}
+
+
+#title{
+  color: red}
